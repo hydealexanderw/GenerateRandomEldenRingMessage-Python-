@@ -378,7 +378,7 @@ words = [
     "here!",
     "not here!",
     "don't you dare!",
-    "go it!",
+    "do it!",
     "I can't take this...",
     "don't think",
     "so lonely...",
